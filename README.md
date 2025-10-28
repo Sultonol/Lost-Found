@@ -15,7 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference. -->
 
-README - Aplikasi Lost & Found Kampus (Flutter + GetX)
+README - Aplikasi Lost & Found (Flutter + GetX)
 
 Folder ini memuat seluruh kode sumber (source code) aplikasi Flutter yang telah
 dikembangkan untuk proyek Ujian Akhir Semester (UAS).
