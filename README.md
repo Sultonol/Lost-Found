@@ -126,6 +126,7 @@ Mulai Aplikasi:
 Aplikasi akan secara otomatis ter-instal dan diluncurkan di perangkat/emulator Anda, dimulai dari splash_view.dart.
 
 D. Tampilan Aplikasi
+
 <img width="403" height="868" alt="Screenshot from 2025-10-28 12-50-52" src="https://github.com/user-attachments/assets/3eb7f5db-ae67-46fa-8c58-9f047024e9e4" />
 <img width="403" height="868" alt="Screenshot from 2025-10-28 12-52-40" src="https://github.com/user-attachments/assets/6c305986-b498-461b-b4ed-b6f554dd483f" />
 <img width="403" height="868" alt="Screenshot from 2025-10-28 12-56-38" src="https://github.com/user-attachments/assets/1cb3b26d-e51f-4f3a-a8f8-fafa88a9ae84" />
