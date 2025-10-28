@@ -1,34 +1,3 @@
-<!-- # lost_and_found
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference. -->
-Tampilan Aplikasi
-<img width="403" height="868" alt="Screenshot from 2025-10-28 12-50-52" src="https://github.com/user-attachments/assets/3eb7f5db-ae67-46fa-8c58-9f047024e9e4" />
-<img width="403" height="868" alt="Screenshot from 2025-10-28 12-52-40" src="https://github.com/user-attachments/assets/6c305986-b498-461b-b4ed-b6f554dd483f" />
-<img width="403" height="868" alt="Screenshot from 2025-10-28 12-56-38" src="https://github.com/user-attachments/assets/1cb3b26d-e51f-4f3a-a8f8-fafa88a9ae84" />
-<img width="403" height="868" alt="Screenshot from 2025-10-28 13-00-09" src="https://github.com/user-attachments/assets/d1206447-7896-4c1c-ad02-52b513363cfd" />
-<img width="403" height="868" alt="Screenshot from 2025-10-28 13-06-22" src="https://github.com/user-attachments/assets/fb0488e9-b7cf-45c7-9ef4-7a37db99f620" />
-<img width="403" height="868" alt="Screenshot from 2025-10-28 13-15-04" src="https://github.com/user-attachments/assets/1a2a3dfd-10d6-44da-b3ec-0102e54a2429" />
-<img width="403" height="868" alt="Screenshot from 2025-10-28 13-15-26" src="https://github.com/user-attachments/assets/fde60bf0-ec7f-4a94-a065-4cc6476a16bf" />
-<img width="403" height="868" alt="Screenshot from 2025-10-28 13-16-23" src="https://github.com/user-attachments/assets/2f225415-f546-42be-870f-7b9ff248ad75" />
-<img width="403" height="868" alt="Screenshot from 2025-10-28 13-22-09" src="https://github.com/user-attachments/assets/460701fc-02f0-41a1-b1eb-f6e37619d8d7" />
-<img width="403" height="868" alt="Screenshot from 2025-10-28 13-22-24" src="https://github.com/user-attachments/assets/ac6c9079-b8e3-4ffe-ae3c-e9de1e86265e" />
-
-
-
-
 README - Aplikasi Lost & Found (Flutter + GetX)
 
 Folder ini memuat seluruh kode sumber (source code) aplikasi Flutter yang telah
@@ -155,3 +124,15 @@ Atau, Anda dapat menekan tombol F5 di VS Code (Run and Debug).
 
 Mulai Aplikasi:
 Aplikasi akan secara otomatis ter-instal dan diluncurkan di perangkat/emulator Anda, dimulai dari splash_view.dart.
+
+D. Tampilan Aplikasi
+<img width="403" height="868" alt="Screenshot from 2025-10-28 12-50-52" src="https://github.com/user-attachments/assets/3eb7f5db-ae67-46fa-8c58-9f047024e9e4" />
+<img width="403" height="868" alt="Screenshot from 2025-10-28 12-52-40" src="https://github.com/user-attachments/assets/6c305986-b498-461b-b4ed-b6f554dd483f" />
+<img width="403" height="868" alt="Screenshot from 2025-10-28 12-56-38" src="https://github.com/user-attachments/assets/1cb3b26d-e51f-4f3a-a8f8-fafa88a9ae84" />
+<img width="403" height="868" alt="Screenshot from 2025-10-28 13-00-09" src="https://github.com/user-attachments/assets/d1206447-7896-4c1c-ad02-52b513363cfd" />
+<img width="403" height="868" alt="Screenshot from 2025-10-28 13-06-22" src="https://github.com/user-attachments/assets/fb0488e9-b7cf-45c7-9ef4-7a37db99f620" />
+<img width="403" height="868" alt="Screenshot from 2025-10-28 13-15-04" src="https://github.com/user-attachments/assets/1a2a3dfd-10d6-44da-b3ec-0102e54a2429" />
+<img width="403" height="868" alt="Screenshot from 2025-10-28 13-15-26" src="https://github.com/user-attachments/assets/fde60bf0-ec7f-4a94-a065-4cc6476a16bf" />
+<img width="403" height="868" alt="Screenshot from 2025-10-28 13-16-23" src="https://github.com/user-attachments/assets/2f225415-f546-42be-870f-7b9ff248ad75" />
+<img width="403" height="868" alt="Screenshot from 2025-10-28 13-22-09" src="https://github.com/user-attachments/assets/460701fc-02f0-41a1-b1eb-f6e37619d8d7" />
+<img width="403" height="868" alt="Screenshot from 2025-10-28 13-22-24" src="https://github.com/user-attachments/assets/ac6c9079-b8e3-4ffe-ae3c-e9de1e86265e" />
